@@ -1,5 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Emberfire/Assets/giftes/chunk_10.png.meta
 guid: d4c8295cba432a641bc2493b99b8793d
+========
+guid: 4a434d72dc634504281346333a855ab6
+>>>>>>>> Stashed changes:Emberfire/Assets/tiles and map/Animated Grass.png.meta
+=======
+<<<<<<< HEAD
+guid: 0dbf9efecb867c54785cb23e78509b31
+=======
+guid: d4c8295cba432a641bc2493b99b8793d
+>>>>>>> e1f805382e12edc174157b7824e14659f11ce48e
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +59,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
+  spritePixelsToUnits: 16
+=======
   spritePixelsToUnits: 100
+>>>>>>> Stashed changes
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1

@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 50cac495bdc698f43966f160c8838534
+=======
+<<<<<<< HEAD
+guid: df85fb6c5035dd047bd34dd6adc0a3fd
+=======
+guid: 50cac495bdc698f43966f160c8838534
+>>>>>>> e1f805382e12edc174157b7824e14659f11ce48e
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +55,15 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   spritePixelsToUnits: 16
+=======
+<<<<<<< HEAD
+  spritePixelsToUnits: 100
+=======
+  spritePixelsToUnits: 16
+>>>>>>> e1f805382e12edc174157b7824e14659f11ce48e
+>>>>>>> Stashed changes
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1

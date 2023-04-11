@@ -1,5 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Emberfire/Assets/giftes/chunk_1.png.meta
 guid: 18a70e6b9543a734d87e798b86eb7915
+========
+guid: 9243d61926c15764e92b6e7bf8d17139
+>>>>>>>> Stashed changes:Emberfire/Assets/natural resources/Forest Cliff.png.meta
+=======
+<<<<<<< HEAD
+guid: 2d22edf18457c9644a7e8704ae53dee0
+=======
+<<<<<<<< HEAD:Emberfire/Assets/01 character/wariars/AxeFighter_ShortHair_ReferencePalette.png.meta
+guid: e0776158db6f13847bc4af609a40234e
+========
+guid: 18a70e6b9543a734d87e798b86eb7915
+>>>>>>>> e1f805382e12edc174157b7824e14659f11ce48e:Emberfire/Assets/giftes/chunk_1.png.meta
+>>>>>>> e1f805382e12edc174157b7824e14659f11ce48e
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +63,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
+  spritePixelsToUnits: 16
+=======
   spritePixelsToUnits: 100
+>>>>>>> Stashed changes
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
