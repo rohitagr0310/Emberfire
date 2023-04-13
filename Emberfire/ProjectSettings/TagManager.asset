@@ -38,12 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: details
-    uniqueID: 2641007309
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Bakground
-    uniqueID: 3008781037
     locked: 0
